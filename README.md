@@ -12,7 +12,7 @@
 - [PBP Fire Arm Seizures](https://data.wprdc.org/dataset/pbp-fire-arm-seizures)
 
 **Angelo Mariano** (anm840@pitt.edu)
-- [Parks](https://data.wprdc.org/dataset/parks)
+- [PBP Arrest Data 2024 2025](https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025)
 
 **Nate Kupersmit** (nak386@pitt.edu)
 - [Parks](https://data.wprdc.org/dataset/parks)
